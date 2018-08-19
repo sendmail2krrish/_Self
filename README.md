@@ -8,14 +8,15 @@ Module based PHP framework. No Dependancy, designer and developer can do work in
 * You have a freedom to use your own pattern & style.
 
 
-* Have to follow MVC pattern.
-* Have to use module structure.
+* Have to follow only **Opps** pattern.
+* You need to write your all codes in the module.
+* You can use **HMVC or MVC or you can simply use Opps only**.
 
-You need to create your modules in the module directory. Every module should have a route.php (to create routes) file, module & controller directory.
+
 
 # Features
 
-* HMVC
+* HMVC/MVC/Opps (all supported)
 * Modules
 * Routes
 * PDO
